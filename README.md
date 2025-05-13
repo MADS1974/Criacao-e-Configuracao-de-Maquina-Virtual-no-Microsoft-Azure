@@ -109,7 +109,7 @@ A tabela abaixo apresenta os níveis de SLA (Service Level Agreement) oferecidos
   - [Documentação do GitHub](https://docs.github.com/).
   - [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## ✅ Toda implementação deste código foi feita seguindo boas práticas de programação orientada a objetos e seguindo as orientações do Expert <www.dio.me>
+## ✅ Toda implementação deste desafio foi feita seguindo as orientações da Especialista Valéria Baptista <www.dio.me>
 
 ### Follow me
 
